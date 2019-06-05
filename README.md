@@ -36,8 +36,6 @@ None.
 
 ## License
 
-VWGoA.
+MIT
 
-## Author Information
 
-Automation and Innovation Team.

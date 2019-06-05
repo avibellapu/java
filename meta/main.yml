@@ -2,10 +2,10 @@
 dependencies: []
 
 galaxy_info:
-  author: Automation and Innovation Team
+  author: Avinash Bellapu
   description: Java for Linux
   company: "VWGoA"
-  license: "license VWGoA"
+  license: "license MIT"
   min_ansible_version: 2.4
   platforms:
     - name: EL
