@@ -1,0 +1,25 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Automation and Innovation Team
+  description: Java for Linux
+  company: "VWGoA"
+  license: "license VWGoA"
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - 6
+        - 7
+    - name: Fedora
+      versions:
+        - all
+  galaxy_tags:
+    - development
+    - system
+    - web
+    - java
+    - jdk
+    - openjdk
+    - oracle
